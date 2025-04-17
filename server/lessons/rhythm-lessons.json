@@ -1,0 +1,22 @@
+{
+    "lesson1" : {
+        "rhythm" : "q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,",
+        "rhythm-wav-path" : "Rhythm1.mp3"
+    },
+    "lesson2" : {
+        "rhythm" : "q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,",
+        "rhythm-wav-path" : "Rhythm2.mp3"
+    },
+    "lesson3" : {
+        "rhythm" : "q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,",
+        "rhythm-wav-path" : "Rhythm3.mp3"
+    },
+    "lesson4" : {
+        "rhythm" : "q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,",
+        "rhythm-wav-path" : "Rhythm4.mp3"
+    },
+    "lesson5" : {
+        "rhythm" : "q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,,,,,;q,,,,,,,,",
+        "rhythm-wav-path" : "Rhythm5"
+    }
+}

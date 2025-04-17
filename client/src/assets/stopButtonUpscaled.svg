@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 31" width="36" height="31">
+	<title>New Project</title>
+	<defs>
+		<image  width="116" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAiBAMAAAB8Y+D+AAAAAXNSR0IB2cksfwAAAA9QTFRFAACq////AAAAw8fLhoqO6PFSkAAAAJ5JREFUeJzN020OQDAMBuDOATAuIE4gcf+rsBts4b+PLYjVQrLO6D9v9oh2xcC7GIWyHEeZwkkqgOMsp9GiQuf6ASfdSmv8theoPJ7513RWZqZSz+h3dL9Hee7VWKnvOCZdrWkhMtWWQ2z6Ta/+NPBKbCvL76lzh4PSo4GnX51AL2Oyk3/RsrFCmPoRJ5q2KKPRxP46Z00C6ktIot61AEOs50GeVVyZAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #868a8e } 
+	</style>
+	<use id="Layer 1" href="#img1" x="-80" y="-2"/>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m27 6v16h-18v-16z"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s1" d="m28 21v2h-19v-2z"/>
+	<path id="Shape 3" fill-rule="evenodd" class="s1" d="m28 6v17h-2v-17z"/>
+	<path id="Shape 4" fill-rule="evenodd" class="s2" d="m26 6v15h-2v-15z"/>
+	<path id="Shape 5" fill-rule="evenodd" class="s2" d="m24 19v2h-15v-2z"/>
+</svg>

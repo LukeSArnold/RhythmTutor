@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "windows95";   /*Can be any text*/
+  src: local("windows95"),
+    url("./fonts/W95font.otf") format("truetype");
+}
+
+@font-face {
+	font-family: "windows95-bold";   /*Can be any text*/
+	src: local("windows95-bold"),
+	  url("./fonts/W95font-Bold.otf") format("truetype");
+  }
+  
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: 008080;
+  font-family: "windows95";
+  font-size: 20px;
+  /* font-family: Arial, Helvetica, sans-serif; */
+
+}
+
+html, body {
+	margin: 0px;
+	background-color: 008080;
+}
+
+div.page-container {
+	/* margin: 20px; */
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	height:100%;
+	background-color: #c0c0c0;
+	border-style: outset;
+	border-width: 4px;
+}
+
+div.outer-border {
+	background-color: #dbdbdb;
+	padding: 4px;
+}
+
+div.inner-border {
+	background-color: white;
+	padding: 0px;
+	border-style: inset;
+	border-width: 2px;
+}
+
+div.header {
+	display: flex;
+	flex-direction: row;
+	height: 4vh;
+	padding-right: 5px;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #02007f;
+	font-family: "windows95-bold"
+}
+
+div.sub-nav {
+	display: flex;
+	flex-direction: row;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+	margin-left: 10px;
+}
+
+div.sub-nav-item {
+	color: black;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+div.sub-nav-item:hover {
+	color: white;
+	background-color: #02007f;
+	cursor: pointer;
+}
+
+div.external-message {
+    width: 60%;
+    text-align: left;
+    float: left;
+    word-wrap: break-word; /* Ensures long words wrap */
+    overflow-wrap: break-word; /* Alternative for modern browsers */
+    white-space: normal; /* Ensures text wraps normally */
+}
+
+div.external-message:hover {
+	cursor: pointer;
+	border: 2px;
+    width: 60%;
+    text-align: left;
+    float: left;
+    word-wrap: break-word; /* Ensures long words wrap */
+    overflow-wrap: break-word; /* Alternative for modern browsers */
+    white-space: normal; /* Ensures text wraps normally */
+}
+
+div.internal-message {
+    width: 60%;
+    text-align: right;
+    float: right;
+    word-wrap: break-word; /* Ensures long words wrap */
+    overflow-wrap: break-word; /* Alternative for modern browsers */
+    white-space: normal; /* Ensures text wraps normally */
+}
+
+div.menu-item{
+	display: "flex";
+	flex-direction: row;
+	padding-left: 10px;
+	background-color: white;
+	color: black;
+	user-select: none;
+}
+
+div.menu-item:hover{
+	display: "flex";
+	justify-content: "left";
+	padding-left: "10px";
+	background-color: #02007f;
+	cursor: pointer;
+	color: white;
+}
+
+div.audio-player-button {
+	cursor: pointer;
+}
+
+div.lesson-title {
+	color: black;
+	font-family: "windows95-bold";
+	padding-left: 1em;
+	display: flex;
+	justify-content: left;
+}
+
+div.music-bar-image {
+	width: 100%;
+}
+
+div.musicBarDiv {
+	background-color: transparent;
+	transition: background-color 0.1s ease-in-out;
+  }
+  
+div.musicBarDiv:hover {
+background-color: rgba(255, 0, 0, 0.5);
+}
+
+div.transcription-tool-bar {
+	display: flex;
+	height: 3%;
+	flex-direction: column;
+}
+
+p {
+	padding: 0px;
+	margin: 0px;
+	font-family: "windows95";
+}

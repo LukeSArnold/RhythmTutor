@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 31" width="36" height="31">
+	<title>playbackToggled</title>
+	<defs>
+		<image width="116" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAiBAMAAAB8Y+D+AAAAAXNSR0IB2cksfwAAAA9QTFRFAACq////AAAAw8fLhoqO6PFSkAAAAJ5JREFUeJzN020OQDAMBuDOATAuIE4gcf+rsBts4b+PLYjVQrLO6D9v9oh2xcC7GIWyHEeZwkkqgOMsp9GiQuf6ASfdSmv8theoPJ7513RWZqZSz+h3dL9Hee7VWKnvOCZdrWkhMtWWQ2z6Ta/+NPBKbCvL76lzh4PSo4GnX51AL2Oyk3/RsrFCmPoRJ5q2KKPRxP46Z00C6ktIot61AEOs50GeVVyZAAAAAElFTkSuQmCC"/>
+		<image  width="35" height="34" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAiAgMAAACo64hvAAAAAXNSR0IB2cksfwAAAAlQTFRFw8fLw8fLAAAA0VVixAAAAAN0Uk5TAP//RFDWIQAAADhJREFUeJxjZGAIZQCB/4yUs0TewFiir+Es7f0wlvV6GMt+NaYYQt1rTPOo4z4ICwqoznI4AGUBALGTJQO2fmqKAAAAAElFTkSuQmCC"/>
+		<image  width="27" height="23" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAXAQMAAADA2KZtAAAAAXNSR0IB2cksfwAAAAZQTFRFw8fLw8fL04b6sQAAAAJ0Uk5TAP9bkSK1AAAAFklEQVR4nGNkYGB4wEgP4j8Dw0MwAQB6DRY4ROSYjwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #868a8e } 
+		.s2 { fill: #000000 } 
+		.s3 { fill: #c3c7cb } 
+	</style>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,-80,-2)"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s0" d="m28 21v2h-19v-2z"/>
+	<path id="Shape 3" fill-rule="evenodd" class="s0" d="m28 6v17h-2v-17z"/>
+	<path id="Shape 4" fill-rule="evenodd" class="s1" d="m26 6v15h-2v-15z"/>
+	<path id="Shape 5" fill-rule="evenodd" class="s1" d="m24 19v2h-15v-2z"/>
+	<use id="Shape 18" href="#img2" x="-5" y="3"/>
+	<path id="Shape 7" fill-rule="evenodd" class="s0" d="m41 29v4h-42v-4z"/>
+	<path id="Shape 8" class="s2" d="m2-1v30h-2v-30zm32 1v2h-32v-2z"/>
+	<path id="Shape 10" fill-rule="evenodd" class="s0" d="m37-1v32h-4v-32z"/>
+	<use id="Shape 13" href="#img3" x="4" y="4"/>
+	<path id="Shape 16" fill-rule="evenodd" class="s3" d="m33 4v25h-4v-25z"/>
+	<path id="Shape 17" fill-rule="evenodd" class="s3" d="m30 27v2h-26v-2z"/>
+	<path id="Shape 15" class="s2" d="m2-1v32h-2v-32zm34 0v3h-25v-3z"/>
+	<path id="Shape 11" class="s1" d="m4 2v27h-2v-27zm29 0v2h-30v-2zm-29 7v22h-2v-22zm32-7v2h-26v-2z"/>
+	<path id="Shape 19" fill-rule="evenodd" class="s2" d="m21 13v3h-15v-3z"/>
+</svg>

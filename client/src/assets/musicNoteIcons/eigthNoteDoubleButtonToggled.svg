@@ -1,0 +1,28 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 31" width="36" height="31">
+	<title>stopButtonUpscaled</title>
+	<defs>
+		<image width="116" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAiBAMAAAB8Y+D+AAAAAXNSR0IB2cksfwAAAA9QTFRFAACq////AAAAw8fLhoqO6PFSkAAAAJ5JREFUeJzN020OQDAMBuDOATAuIE4gcf+rsBts4b+PLYjVQrLO6D9v9oh2xcC7GIWyHEeZwkkqgOMsp9GiQuf6ASfdSmv8theoPJ7513RWZqZSz+h3dL9Hee7VWKnvOCZdrWkhMtWWQ2z6Ta/+NPBKbCvL76lzh4PSo4GnX51AL2Oyk3/RsrFCmPoRJ5q2KKPRxP46Z00C6ktIot61AEOs50GeVVyZAAAAAElFTkSuQmCC"/>
+		<image  width="19" height="22" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAWAQMAAAAYUzU8AAAAAXNSR0IB2cksfwAAAAZQTFRFw8fLAAAAyGKIGQAAAC9JREFUeJxjZGA4wEgyll/IyGDfyMhQ4cHIkJDAyJAYz8iQHMvIYO4JlHsIVMMAAMp6D9cwmxq3AAAAAElFTkSuQmCC"/>
+		<image  width="24" height="23" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXAgMAAABsT2e+AAAAAXNSR0IB2cksfwAAAAlQTFRFAAAAAAAAw8fLmIebaAAAAAN0Uk5TAP//RFDWIQAAAEtJREFUeJxjZGBgCGX4z7iKYTWQBaF+g6jXB0C8dSsYKKZWrmEGUUs3MK9g9GeceoB5hag1hNKGUK/BFMsfoBLhGWANwRFg7f+AFADlCDDxb6S6NAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #868a8e } 
+		.s3 { fill: #c3c7cb } 
+	</style>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,-80,-2)"/>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m27 6v16h-18v-16z"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s1" d="m28 21v2h-19v-2z"/>
+	<path id="Shape 3" fill-rule="evenodd" class="s1" d="m28 6v17h-2v-17z"/>
+	<path id="Shape 4" fill-rule="evenodd" class="s2" d="m26 6v15h-2v-15z"/>
+	<path id="Shape 5" fill-rule="evenodd" class="s2" d="m24 19v2h-15v-2z"/>
+	<path id="Shape 7" fill-rule="evenodd" class="s1" d="m41 29v4h-42v-4z"/>
+	<path id="Shape 8" class="s0" d="m2-1v30h-2v-30zm32 1v2h-32v-2z"/>
+	<path id="Shape 10" fill-rule="evenodd" class="s1" d="m37-1v32h-4v-32z"/>
+	<path id="Shape 13" class="s3" d="m33 25v4h-29v-4zm0-21v23h-5v-23z"/>
+	<path id="Shape 15" class="s0" d="m2-1v32h-2v-32zm34 0v3h-25v-3z"/>
+	<path id="Shape 11" class="s2" d="m4 2v27h-2v-27zm29 0v2h-30v-2zm-29 7v22h-2v-22zm32-7v2h-26v-2z"/>
+	<use id="Shape 6" href="#img2" x="10" y="4"/>
+	<use id="Layer 1" href="#img3" x="4" y="4"/>
+</svg>

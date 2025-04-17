@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 31" width="36" height="31">
+	<title>playbackToggled</title>
+	<defs>
+		<image width="116" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAiBAMAAAB8Y+D+AAAAAXNSR0IB2cksfwAAAA9QTFRFAACq////AAAAw8fLhoqO6PFSkAAAAJ5JREFUeJzN020OQDAMBuDOATAuIE4gcf+rsBts4b+PLYjVQrLO6D9v9oh2xcC7GIWyHEeZwkkqgOMsp9GiQuf6ASfdSmv8theoPJ7513RWZqZSz+h3dL9Hee7VWKnvOCZdrWkhMtWWQ2z6Ta/+NPBKbCvL76lzh4PSo4GnX51AL2Oyk3/RsrFCmPoRJ5q2KKPRxP46Z00C6ktIot61AEOs50GeVVyZAAAAAElFTkSuQmCC"/>
+		<image  width="35" height="34" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAiAgMAAACo64hvAAAAAXNSR0IB2cksfwAAAAlQTFRFw8fLw8fLAAAA0VVixAAAAAN0Uk5TAP//RFDWIQAAADhJREFUeJxjZGAIZQCB/4yUs0TewFiir+Es7f0wlvV6GMt+NaYYQt1rTPOo4z4ICwqoznI4AGUBALGTJQO2fmqKAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #868a8e } 
+		.s2 { fill: #000000 } 
+	</style>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,-80,-2)"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s0" d="m28 21v2h-19v-2z"/>
+	<path id="Shape 3" fill-rule="evenodd" class="s0" d="m28 6v17h-2v-17z"/>
+	<path id="Shape 4" fill-rule="evenodd" class="s1" d="m26 6v15h-2v-15z"/>
+	<path id="Shape 5" fill-rule="evenodd" class="s1" d="m24 19v2h-15v-2z"/>
+	<use id="Shape 18" href="#img2" x="-5" y="3"/>
+	<path id="Shape 19" fill-rule="evenodd" class="s2" d="m21 13v3h-15v-3z"/>
+</svg>
